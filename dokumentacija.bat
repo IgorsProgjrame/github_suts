@@ -2,8 +2,7 @@
 x:
 start cmd
 start notepad
-stars mspaint
+start mspaint
 start calc
 start explorer
-start edge
 goto x
